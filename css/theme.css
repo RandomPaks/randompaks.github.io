@@ -224,7 +224,7 @@ hr {
 
 .hover-outer-box:hover .hover-inner-box {
 	opacity: .9;
-	transition: opacity .5s;
+	transition: opacity .25s;
 }
 
 .hover-outer-box .hover-inner-box .hover-content{
